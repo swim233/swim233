@@ -25,8 +25,5 @@ src="https://github-readme-stats.vercel.app/api?username=swim233&count_private=t
 />
 
 
-</details>
-<br/>
-
 <!-- Shields badge fom: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <!-- Skill icons from: https://github.com/tandpfun/skill-icons -->
