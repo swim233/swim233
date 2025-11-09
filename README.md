@@ -7,12 +7,12 @@ src="https://github-readme-stats.vercel.app/api?username=swim233&count_private=t
 [![Telegram](https://img.shields.io/badge/TG%20%E2%86%92-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheSw1m)&nbsp;
 ### Languages
 
-[![Lans](https://skillicons.dev/icons?i=go&perline=14&theme=light)](https://skillicons.dev)
+[![Lans](https://skillicons.dev/icons?i=go,js,ts,html,css&perline=14&theme=light)](https://skillicons.dev)
 
 
 ### Support tools
 
-[![Support tools](https://skillicons.dev/icons?i=nginx,docker,git&perline=14&theme=light)](https://skillicons.dev)
+[![Support tools](https://skillicons.dev/icons?i=nginx,docker,git,vue&perline=14&theme=light)](https://skillicons.dev)
 
 ### Softwares & Platforms
 
