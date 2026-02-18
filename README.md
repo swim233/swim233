@@ -1,7 +1,7 @@
 # 没有人👋比我👋更懂摸鱼
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=swim233&count_private=true&theme=vue-dark&show_icons=true&hide_border=true&border_radius=10&bg_color=2738493B&text_color=808080" alt="Stats" width="400" align="right"/>
+src="https://github-readme-stats-neon-nine-18.vercel.app/api?username=swim233&count_private=true&show_icons=true&theme=cobalt" alt="Stats" width="400" align="right"/>
 
 \
 [![Telegram](https://img.shields.io/badge/TG%20%E2%86%92-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheSw1m)&nbsp;
@@ -21,7 +21,7 @@ src="https://github-readme-stats.vercel.app/api?username=swim233&count_private=t
 ### Most used languages
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=swim233&layout=compact&count_private=true&theme=vue-dark&show_icons=true&hide_border=true&border_radius=10&bg_color=2738493B&text_color=808080"
+  src="https://github-readme-stats-neon-nine-18.vercel.app/api/top-langs/?username=swim233&layout=compact&theme=cobalt"
 />
 
 
