@@ -16,7 +16,7 @@ src="https://github-readme-stats-neon-nine-18.vercel.app/api?username=swim233&co
 
 ### Softwares & Platforms
 
-[![Softwares](https://skillicons.dev/icons?i=arch,debian,ubuntu,kali,windows,cloudflare,vscode,clion,vim,neovim,github,ps&perline=14&theme=light)](https://skillicons.dev)
+[![Softwares](https://skillicons.dev/icons?i=arch,debian,ubuntu,windows,cloudflare,vscode,vim,neovim,github&perline=14&theme=light)](https://skillicons.dev)
 
 ### Most used languages
 
