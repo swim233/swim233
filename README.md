@@ -12,7 +12,7 @@ src="https://github-readme-stats-neon-nine-18.vercel.app/api?username=swim233&co
 
 ### Support tools
 
-[![Support tools](https://skillicons.dev/icons?i=nginx,docker,git,vue&perline=14&theme=light)](https://skillicons.dev)
+[![Support tools](https://skillicons.dev/icons?i=nginx,docker,git,vue,qt&perline=14&theme=light)](https://skillicons.dev)
 
 ### Softwares & Platforms
 
